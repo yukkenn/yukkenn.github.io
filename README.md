@@ -1,12 +1,12 @@
-# Public Pages for iOS Release
+# iOSリリース用 公開ページ
 
-This folder stores the public-facing markdown pages (Terms of Service, Privacy Policy, and Contact) for the iOS app release. The documents currently live under `price-comparer/`.
+このフォルダは、iOSアプリのリリースに向けて公開する利用規約・プライバシーポリシー・お問い合わせ情報のMarkdownを保管しています。現在のドキュメントは `price-comparer/` 配下にあります。
 
-## Files
-- `price-comparer/TERMS.md`: Terms of Service
-- `price-comparer/PRIVACY.md`: Privacy Policy
-- `price-comparer/CONTACT.md`: Contact information
+## ファイル一覧
+- `price-comparer/TERMS.md`: 利用規約
+- `price-comparer/PRIVACY.md`: プライバシーポリシー
+- `price-comparer/CONTACT.md`: お問い合わせ先
 
-## Usage
-- Edit the markdown files directly as copy updates are needed.
-- Publish by serving or exporting these markdown files with your preferred static hosting workflow.
+## 使い方
+- 文面を更新する場合は各Markdownを直接編集してください。
+- 公開時はお好みの静的ホスティング手段でこれらのMarkdownを配信してください。
