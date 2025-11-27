@@ -1,12 +1,13 @@
-# iOSリリース用 公開ページ
+# 公開中の利用規約・プライバシーポリシー
 
-このフォルダは、iOSアプリのリリースに向けて公開する利用規約・プライバシーポリシー・お問い合わせ情報のMarkdownを保管しています。現在のドキュメントは `price-comparer/` 配下にあります。
+このリポジトリは、当社アプリをご利用いただくお客様向けに公開している利用規約・プライバシーポリシー・お問い合わせ先をまとめたものです。GitHub Pages からどなたでも閲覧できます。
 
-## ファイル一覧
-- `price-comparer/TERMS.md`: 利用規約
-- `price-comparer/PRIVACY.md`: プライバシーポリシー
-- `price-comparer/CONTACT.md`: お問い合わせ先
+## アプリ毎のページ
+◇かんたん単価計算
+　- [利用規約](https://yukkenn.github.io/hilltea_app/price-comparer/TERMS)
+　- [プライバシーポリシー](https://yukkenn.github.io/hilltea_app/price-comparer/PRIVACY)
+　- [お問い合わせ先](https://yukkenn.github.io/hilltea_app/price-comparer/CONTACT)
 
-## 使い方
-- 文面を更新する場合は各Markdownを直接編集してください。
-- 公開時はお好みの静的ホスティング手段でこれらのMarkdownを配信してください。
+## 更新について
+- 最新版の内容は常にここに掲載されます。
+- 文面を更新した場合も、公開URL上で自動的に反映されます。
